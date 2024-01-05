@@ -3,8 +3,7 @@
 ### Prerequisits
 - Java 21
 - enable -ea in your IDE (or use it when launching java) to use `assertion`
-![img.png](img.png)
-
+Steps in intellij: open "run/build configuration", go to "modify options" -> "add VM options", set "-ea" in this space.
 
 ## Key concepts
 
