@@ -1,7 +1,7 @@
 # Starting with Spring Core
 
 ### Prerequisits
-- Java 21
+- Java 17
 - enable -ea in your IDE (or use it when launching java) to use `assertion`
 Steps in intellij: open "run/build configuration", go to "modify options" -> "add VM options", set "-ea" in this space.
 
